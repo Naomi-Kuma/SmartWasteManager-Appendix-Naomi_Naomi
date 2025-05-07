@@ -1,7 +1,7 @@
 # SmartWasteManager – Project 
 
-*Student Name:* Naomi Edem Kuamh 
-*Institution:* Academic City University   
+*Student Name:* Naomi Edem Kumah 
+-*Institution:* Academic City University   
 *Final Year Project*– Design and Implementation of an Automated Scheduling and Billing System for Residential Waste Collection
 
 ## Overview
